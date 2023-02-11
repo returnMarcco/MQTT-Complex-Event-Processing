@@ -6,7 +6,7 @@ An MQTT publish/subscribe console application. Demonstrates the publish/subscrib
   
 * You will need NodeJs & NPM installed - https://nodejs.org/en/
 * With Node installed, in the root of the project folder, run `npm -i` to acquire dependencies. <br><br>
-# Running the Application
+# Running the Application:
 * <i>You must ensure the following three steps are completed in order, with the terminal windows of steps one and two left running:</i> <br>
 * 1. Navigate to the project directory's root in a terminal window and run `node mqtt_subscribe.js` - This will be the 'listening' client.
 * 2. Navigate to the project directory's root in ANOTHER terminal window and run `node mqtt_complex_events.js` - This will be the client that processes complex events.
